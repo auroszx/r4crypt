@@ -12,5 +12,5 @@ To encrypt just run:
 
 `r4crypt -e out.DAT _DS_MENU.DAT`
 
-And that's it. You can also encrypt and .NDS file to a .DAT file.
-This will allow you to run the NDS as a firmware.
+And that's it. You can also encrypt an .NDS file to a .DAT file.
+This will allow you to run the .NDS as a firmware.
